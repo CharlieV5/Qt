@@ -3,3 +3,8 @@
 ################################################################################
 
 /QtProgressThread/QtProgressThread/x64/Debug/qmake
+/QtProgressThread/QtProgressThread/x64/Debug
+/.vs
+/QtProgressThread/QtProgressThread/QtProgressThread.vcxproj.user
+/QtProgressThread/x64/Debug
+/QtProgressThread/.vs/QtProgressTest/v16
